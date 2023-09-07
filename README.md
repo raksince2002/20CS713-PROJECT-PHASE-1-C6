@@ -9,7 +9,7 @@ PROBLEM STATEMENT DESCRIPTION:-
 
 The project team shall establish an interactive AI based model that will help students to to choose from careers. The model should handhold student in assessing his capabilities and subsequently help him in deciding a career path.
 
-<b>TEAM MEMBERS:-<b>
+#  TEAM MEMBERS:-
 
 <table>
   <tr>
