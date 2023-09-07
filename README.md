@@ -1,5 +1,9 @@
 # 20CS713-PROJECT-PHASE-1-C6
 
+PROJECT TITLE:-
+
+Career guidance for secondary students using AI.
+
 PROBLEM STATEMENT:-
 
 Making career choices and AI based counselling accessible to every child at secondary level along with aptitude tests and detailed career paths.
